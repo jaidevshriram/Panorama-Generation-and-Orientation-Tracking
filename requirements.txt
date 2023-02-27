@@ -1,0 +1,6 @@
+numpy
+matplotlib==3.4
+transforms3d
+jax[cpu]
+tqdm
+imageio
